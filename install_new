@@ -1,7 +1,5 @@
 #!/bin/bash
-#DEV BY @CRAZY_VPN
-#INSTALADOR MOD BY @adeilsonfi
-#MODIIFICACION ILLUMINATI DEV TEAM
+#MODIIFICACION BY Shiko
 clear
 fun_bar () {
 comando[0]="$1"
