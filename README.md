@@ -21,7 +21,7 @@ PAINEL REVENDA SSH es una herramienta completa de gestión y supervisión de usu
 
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install; chmod 777 install* && ./install*
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/http-error0xc00000e/Panelv20/master/install; chmod 777 install* && ./install*
 
 ## :book: Installation [ BETA ]
 
